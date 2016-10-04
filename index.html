@@ -7,16 +7,17 @@ layout: default
     <ul class="post">
       {% for post in paginator.posts %}
         <li class="post__item">
-          <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <b class="post__sep">&#x25cf;</b>
+            <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
           <div class="post__meta">
-            <b class="post__author">{{ post.author }}</b>
+            <!--b class="post__author">{{ post.author }}</b>
             <b class="post__sep">&#x25cf;</b>
             <b class="post__date">{{ post.date | date: "%b %-d, %Y" }}</b>
           </div>
 
           {{ post.excerpt }}
             <p> ...... </p>
-          <a class="btn--default" href="{{ post.url | prepend: site.baseurl }}">Read more</a>
+          <a class="btn--default" href="{{ post.url | prepend: site.baseurl }}">Read more</a-->
         </li>
       {% endfor %}
     </ul>
