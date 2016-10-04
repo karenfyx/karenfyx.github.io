@@ -3,6 +3,7 @@ title: Contact
 permalink: /contact/
 ---
 
-/* Ohhhh! You might be the first person who visits here other than myself... */
+Email: [karenfyx@gmail.com](mailto:{{ site.email }}).
 
-To get in touch, you can send an email to [karenfyx@gmail.com](mailto:{{ site.email }}).
+Github: [karenfyx](https://github.com/karenfyx) 
+
