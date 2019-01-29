@@ -28,7 +28,7 @@ defaults:
       layout: "page"
 
 #Gem:
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
