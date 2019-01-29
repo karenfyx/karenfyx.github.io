@@ -3,11 +3,11 @@
   <channel>
     <title>Karenfyx</title>
     <description>A personal blog of Yanxi Fu</description>
-    <link>http://webconfs.me/</link>
-    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Oct 2016 14:01:13 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Oct 2016 14:01:13 -0400</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Jan 2019 18:15:35 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 18:15:35 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Welcome to My Blog</title>
@@ -18,8 +18,8 @@
 &lt;p&gt;This is just the first, very simple version of my blog. I’m going to modify it or completely replace it later, and of course, buy a domain for it.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://webconfs.me/welcome-to-my-blog</link>
-        <guid isPermaLink="true">http://webconfs.me/welcome-to-my-blog</guid>
+        <link>http://localhost:4000/welcome-to-my-blog</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome-to-my-blog</guid>
         
         
         <category>general</category>

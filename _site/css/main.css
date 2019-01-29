@@ -224,7 +224,7 @@ h3 {
 
 h4 {
   margin-top: 1.375em;
-  margin-bottom: 2.57143em;
+  margin-bottom: 2.5714285714em;
   color: #d6d7d9;
   text-transform: uppercase;
   letter-spacing: 0.025em;
@@ -240,7 +240,7 @@ a {
   font-weight: 400; }
 
 p {
-  margin: 0 0 1.66667em;
+  margin: 0 0 1.6666666667em;
   font-weight: 300;
   font-size: 1.125em;
   line-height: 1.5; }
@@ -251,9 +251,9 @@ blockquote {
   font-size: 1.25em; }
   @media (min-width: 769px) {
     blockquote {
-      margin: 1.33333em 0;
+      margin: 1.3333333333em 0;
       padding: 0 0 0 5%;
-      border-left: 0.33333em solid #e8e9ea;
+      border-left: 0.3333333333em solid #e8e9ea;
       font-size: 1.5em; } }
 
 ul,
@@ -528,8 +528,8 @@ footer {
   @media (min-width: 1px) and (max-width: 768px) {
     .nav__item--current a, .nav__item a {
       border-bottom-color: #e8e9ea;
-      padding-top: 0.66667em;
-      padding-bottom: 0.66667em; } }
+      padding-top: 0.6666666667em;
+      padding-bottom: 0.6666666667em; } }
 
 .nav__item--current a, .nav__item a:hover {
   color: #0b0b0b;
@@ -621,7 +621,7 @@ h2 {
   margin-top: -1.375em; }
 
 .post__title {
-  margin-bottom: 1.66667em; }
+  margin-bottom: 1.6666666667em; }
   .post__title--grouped {
     margin-bottom: 0; }
   .post__title:hover {
@@ -639,7 +639,7 @@ h2 {
   background-color: #9279c3; }
 
 [class^="btn--"] {
-  margin-bottom: 1.42857em; }
+  margin-bottom: 1.4285714286em; }
   @media (min-width: 1px) and (max-width: 768px) {
     [class^="btn--"] {
       width: 100%; } }
