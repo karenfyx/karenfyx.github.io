@@ -5,17 +5,17 @@
     <description>A personal blog of Yanxi Fu</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Jan 2019 18:15:35 -0500</pubDate>
-    <lastBuildDate>Tue, 29 Jan 2019 18:15:35 -0500</lastBuildDate>
+    <pubDate>Tue, 29 Jan 2019 18:18:07 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 18:18:07 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Welcome to My Blog</title>
         <description>&lt;p&gt;Hi there,&lt;/p&gt;
 
-&lt;p&gt;This is my personal blog.&lt;/p&gt;
+&lt;p&gt;This is my personal blog powered by GitHub Pages.&lt;/p&gt;
 
-&lt;p&gt;This is just the first, very simple version of my blog. I’m going to modify it or completely replace it later, and of course, buy a domain for it.&lt;/p&gt;
+&lt;p&gt;Let’s see if this one works.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Jan 2016 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/welcome-to-my-blog</link>
