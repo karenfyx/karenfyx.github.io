@@ -3,10 +3,10 @@
   <channel>
     <title>Karenfyx</title>
     <description>A personal blog of Yanxi Fu</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Jan 2019 18:22:59 -0500</pubDate>
-    <lastBuildDate>Tue, 29 Jan 2019 18:22:59 -0500</lastBuildDate>
+    <link>http://webconfs.me/</link>
+    <atom:link href="http://webconfs.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 29 Jan 2019 18:26:42 -0500</pubDate>
+    <lastBuildDate>Tue, 29 Jan 2019 18:26:42 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -18,8 +18,8 @@
 &lt;p&gt;Let’s see if this one works.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Jan 2016 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/welcome-to-my-blog</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome-to-my-blog</guid>
+        <link>http://webconfs.me/welcome-to-my-blog</link>
+        <guid isPermaLink="true">http://webconfs.me/welcome-to-my-blog</guid>
         
         
         <category>general</category>
